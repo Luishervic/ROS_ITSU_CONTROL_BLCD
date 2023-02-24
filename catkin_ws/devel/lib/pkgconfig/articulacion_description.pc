@@ -1,0 +1,8 @@
+prefix=/home/cire2022/ROS_ITSU_CONTROL_BLCD/catkin_ws/devel
+
+Name: articulacion_description
+Description: Description of articulacion_description
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

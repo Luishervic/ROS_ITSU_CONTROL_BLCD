@@ -1,0 +1,2 @@
+articulation_description:control_pkg:launch:scripts
+-DCATKIN_DEVEL_PREFIX=/home/cire2022/ROS_ITSU_CONTROL_BLCD/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/cire2022/ROS_ITSU_CONTROL_BLCD/catkin_ws/install -G Unix Makefiles
